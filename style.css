@@ -1,0 +1,17 @@
+body {
+    background-color: #DFD9E2;
+}
+header {
+    height: 100px;
+    background-color: #7C617E;
+}
+.flex-row {
+    width: 90vw;
+    margin: 5vw;
+}
+.flex-column {
+    width: 47%;
+}
+img {
+    width: 100%;
+}
